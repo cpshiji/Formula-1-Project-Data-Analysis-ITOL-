@@ -2,8 +2,6 @@
 
 A short description of your data analysis project: what dataset you used, why you analyzed it, and the problem or question you aimed to answer.  
 
-[Live Dashboard / Notebook Link](YOUR_LIVE_LINK_HERE)  
-
 ---
 
 ## Table of Contents
